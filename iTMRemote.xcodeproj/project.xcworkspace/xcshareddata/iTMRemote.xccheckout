@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D575ACCC-15AE-465E-9DD6-22D82BC1279E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iTMRemote</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B435CAB36E918E1203CC35EE7CD34BFF69D478E2</key>
+		<string>https://bitbucket.org/oldcat/itmremote.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iTMRemote.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B435CAB36E918E1203CC35EE7CD34BFF69D478E2</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/oldcat/itmremote.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B435CAB36E918E1203CC35EE7CD34BFF69D478E2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B435CAB36E918E1203CC35EE7CD34BFF69D478E2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iTMRemote</string>
+		</dict>
+	</array>
+</dict>
+</plist>

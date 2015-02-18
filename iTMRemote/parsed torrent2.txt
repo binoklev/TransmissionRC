@@ -1,0 +1,86 @@
+{
+    announce = "http://bt3.rutracker.org/ann?uk=ggDeLxtE1I";
+    "announce-list" =     (
+                (
+            "http://bt3.rutracker.org/ann?uk=ggDeLxtE1I"
+        ),
+                (
+            "http://retracker.local/announce"
+        )
+    );
+    comment = "http://rutracker.org/forum/viewtopic.php?t=3884761";
+    "created by" = "uTorrent/2210";
+    "creation date" = 1325523368;
+    encoding = "UTF-8";
+    info =     {
+        files =         (
+                        {
+                length = 22450630;
+                path =                 (
+                    "02-Duo Tone.mp3"
+                );
+            },
+                        {
+                length = 21995052;
+                path =                 (
+                    "01-Geist.mp3"
+                );
+            },
+                        {
+                length = 19510286;
+                path =                 (
+                    "03-Orbits.mp3"
+                );
+            },
+                        {
+                length = 53197;
+                path =                 (
+                    "Petar-Dundov-Gregor-Tresher-Duotone-EP.jpg"
+                );
+            }
+        );
+        name = "Petar Dundov and Gregor Tresher - Duo Tone (EP) [2011] (mp3)";
+        "piece length" = 65536;
+        pieces = <eb4b167d 42761ea0 272114ff 8d7f7959 3a3790ca 72b5580f 45bd0c6e 6a52cb7b...>;
+    };
+    publisher = "rutracker.org";
+    "publisher-url" = "http://rutracker.org/forum/viewtopic.php?t=3884761";
+}
+
+announce = "http://bt3.rutracker.org/ann?uk=ggDeLxtE1I";
+    "announce-list" =     (
+                (
+            "http://bt3.rutracker.org/ann?uk=ggDeLxtE1I"
+        ),
+                (
+            "http://retracker.local/announce"
+        )
+    );
+    comment = "http://rutracker.org/forum/viewtopic.php?t=4780480";
+    "created by" = "uTorrent/3.4.1";
+    "creation date" = 1405016008;
+    encoding = "UTF-8";
+    info =     {
+        "file-duration" =         (
+            28780
+        );
+        "file-media" =         (
+            0
+        );
+        length = 468997338;
+        name = "\U0411\U0430\U043d\U0434\U0438\U0442\U044b - 2. \U041b\U0438\U043a\U0432\U0438\U0434\U0430\U0446\U0438\U044f.m4b";
+        "piece length" = 524288;
+        pieces = <fda50e75 b04c2436 4bef4ae4 07ea5cfb ab261c4a ffe8dae0 54af3f20 9b63351d ...>;
+        profiles =         (
+                        {
+                acodec = aac;
+                height = 0;
+                vcodec = "";
+                width = 0;
+            }
+        );
+    };
+    publisher = "rutracker.org";
+    "publisher-url" = "http://rutracker.org/forum/viewtopic.php?t=4780480";
+}
+
